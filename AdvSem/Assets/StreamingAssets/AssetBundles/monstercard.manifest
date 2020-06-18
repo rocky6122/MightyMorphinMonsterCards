@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2915805702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a97263c62e52d528ece913ac3308bd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3542ce632230524fc740e27b6e0818f1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0d11ae06f7fde4488b399edff604a87, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cards/One Cold Chomper.asset
+- Assets/Cards/White Lotus Warrior.asset
+- Assets/Cards/Goblin Guru.asset
+- Assets/Cards/Lich Demon.asset
+- Assets/Cards/Poisonous Tree Frog.asset
+- Assets/Cards/Baby Frog.asset
+- Assets/Cards/Underwear Gnome.asset
+- Assets/Cards/Mama Chomper.asset
+- Assets/Cards/Diseased Gryffon.asset
+- Assets/Cards/Swampdweller.asset
+- Assets/Cards/Lil Chomper.asset
+- Assets/Cards/Low Poly Chicken.asset
+- Assets/Cards/Dancing Dragon.asset
+- Assets/Cards/Plague Knight.asset
+- Assets/Cards/Water Spirit.asset
+- Assets/Cards/Bubonic Chicken.asset
+- Assets/Cards/Pony Horse.asset
+- Assets/Cards/Sea Guardian.asset
+- Assets/Cards/Goblin Rider.asset
+- Assets/Cards/Photorealistic Chicken.asset
+- Assets/Cards/Orc Charioteer.asset
+- Assets/Cards/Royal Ice Prince.asset
+- Assets/Cards/Bog Wraith.asset
+- Assets/Cards/Death Charger.asset
+- Assets/Cards/Horde of Gnomes.asset
+- Assets/Cards/Enraged Chicken.asset
+- Assets/Cards/Giga Chomper.asset
+- Assets/Cards/Army of Undeath.asset
+- Assets/Cards/Master of the Elements.asset
+- Assets/Cards/Neanderthal Firebearer.asset
+- Assets/Cards/Horse Thief.asset
+- Assets/Cards/Elf Hero.asset
+- Assets/Cards/Gnome on the Range.asset
+- Assets/Cards/Mad Gnomad.asset
+- Assets/Cards/G'Nasty Gnome.asset
+- Assets/Cards/Wise Mentor.asset
+- Assets/Cards/Huggable Seacow.asset
+- Assets/Cards/Gnome Jockey.asset
+- Assets/Cards/Mermaid Skeleton.asset
+- Assets/Cards/King of Beggars.asset
+- Assets/Cards/Unholy Champion.asset
+Dependencies: []

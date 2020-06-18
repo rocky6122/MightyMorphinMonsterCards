@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d11ae06f7fde4488b399edff604a87, type: 3}
+  m_Name: Mermaid Skeleton
+  m_EditorClassIdentifier: 
+  name: Mermaid Skeleton
+  backgroundColor:
+    serializedVersion: 2
+    rgba: 4286836223
+  description: 
+  artwork: {fileID: 21300000, guid: cbeaad05c7a78f0468ddd065209a7a26, type: 3}
+  artist: 
+  attack: 85
+  defense: 140
+  health: 325
+  speed: 80
+  element: 1
+  resistance: 4

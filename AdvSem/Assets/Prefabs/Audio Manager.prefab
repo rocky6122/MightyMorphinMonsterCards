@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7101194880633924953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7101194880633924959}
+  - component: {fileID: 7101194880633924952}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7101194880633924959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7101194880633924953}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 207.8924, y: 130.47688, z: 5.875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7101194880633924952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7101194880633924953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e7ca5764297264f9c4e2fefd757e7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundList:
+  - soundClip: {fileID: 8300000, guid: d72900e88985e01469138aaad6f10d69, type: 3}
+    soundSource: {fileID: 0}
+    name: Menu Theme
+    loop: 1
+    volume: 0.75
+  - soundClip: {fileID: 8300000, guid: 6d88d31041931fd40aced55900c380e2, type: 3}
+    soundSource: {fileID: 0}
+    name: Battle Theme
+    loop: 1
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 8c566fda85e6aaa408c460e17767ea55, type: 3}
+    soundSource: {fileID: 0}
+    name: Morphing Theme
+    loop: 1
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: da3cd2f39d94d4e4a83221eb22725e71, type: 3}
+    soundSource: {fileID: 0}
+    name: Clash
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: d373b825a84d85c42b84750b67cef5fd, type: 3}
+    soundSource: {fileID: 0}
+    name: Death
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 40b10d5d8761c8443ba1e5f64487ffbd, type: 3}
+    soundSource: {fileID: 0}
+    name: Defeat
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 52367bd345077c545bfc5b5dd0df01bd, type: 3}
+    soundSource: {fileID: 0}
+    name: Drag
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 7df5557f1cb54db44bb7d08a58180825, type: 3}
+    soundSource: {fileID: 0}
+    name: Drop
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 8a0d976bf390ae74cadd8c7ae8d57898, type: 3}
+    soundSource: {fileID: 0}
+    name: Shuffle
+    loop: 0
+    volume: 1
+  - soundClip: {fileID: 8300000, guid: 438c6bfff968077428fc8b57e55c2979, type: 3}
+    soundSource: {fileID: 0}
+    name: Victory
+    loop: 0
+    volume: 1

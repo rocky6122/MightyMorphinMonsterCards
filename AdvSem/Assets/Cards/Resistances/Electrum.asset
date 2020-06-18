@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42be8ace6c0d3184ba199b9b5e3a37be, type: 3}
+  m_Name: Electrum
+  m_EditorClassIdentifier: 
+  name: Electrum Alloy
+  backgroundColor:
+    serializedVersion: 2
+    rgba: 0
+  description: 
+  artwork: {fileID: 21300000, guid: 39d60d1b963a3e54c880d7c7582c95ea, type: 3}
+  artist: 
+  resistance: 5

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d11ae06f7fde4488b399edff604a87, type: 3}
+  m_Name: Baby Frog
+  m_EditorClassIdentifier: 
+  name: Baby Frog
+  backgroundColor:
+    serializedVersion: 2
+    rgba: 4287795953
+  description: 
+  artwork: {fileID: 21300000, guid: b77b888708268394b88b3b0e28ffc560, type: 3}
+  artist: 
+  attack: 20
+  defense: 15
+  health: 80
+  speed: 25
+  element: 1
+  resistance: 5

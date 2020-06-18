@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5cd664bad9946e6479fd4ece70702ce1
+  - enabled: 1
+    path: Assets/Scenes/WaitingScene.unity
+    guid: 051a32bcc3d251b4685e2383d0ec8bc2
+  - enabled: 1
+    path: Assets/Scenes/draggingTest.unity
+    guid: 087cc7bb4b886b7428c3763ad468e2e8
+  - enabled: 1
+    path: Assets/Scenes/Battle Phase.unity
+    guid: 8ef925bb58cd3c541b5a3c7145365674
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: b3d37a7deeabe684da30cee9a39302f5
+  m_configObjects: {}

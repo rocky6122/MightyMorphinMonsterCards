@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d11ae06f7fde4488b399edff604a87, type: 3}
+  m_Name: Lich Demon
+  m_EditorClassIdentifier: 
+  name: Lich Demon
+  backgroundColor:
+    serializedVersion: 2
+    rgba: 4286836223
+  description: 
+  artwork: {fileID: 21300000, guid: 81a2260a1d18a074c8b2da72cf307d3c, type: 3}
+  artist: 
+  attack: 150
+  defense: 65
+  health: 400
+  speed: 125
+  element: 5
+  resistance: 2

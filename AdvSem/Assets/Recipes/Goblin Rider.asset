@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8f0dfa505bed847bd98d2ca042632a, type: 3}
+  m_Name: Goblin Rider
+  m_EditorClassIdentifier: 
+  cardPairs:
+  - cardZero: {fileID: 11400000, guid: 5cba3190fb0c9d947986986f26d9bd6f, type: 2}
+    cardOne: {fileID: 11400000, guid: 16c7a4b272295f24aa8be9aa33e63672, type: 2}
+  - cardZero: {fileID: 11400000, guid: 342b00c7155727d4e95ab536a9c1a841, type: 2}
+    cardOne: {fileID: 11400000, guid: 5cba3190fb0c9d947986986f26d9bd6f, type: 2}
+  - cardZero: {fileID: 11400000, guid: ecdbbb0d55a469548b7c46224a44d9d1, type: 2}
+    cardOne: {fileID: 11400000, guid: 03614702ada7d004ea1c192c2c6788ce, type: 2}
+  - cardZero: {fileID: 11400000, guid: 16c7a4b272295f24aa8be9aa33e63672, type: 2}
+    cardOne: {fileID: 11400000, guid: bef6b373cf7428f42ad3b50b6633a27c, type: 2}
+  - cardZero: {fileID: 11400000, guid: cb52ca22733a091478e3bc9a9af4e44a, type: 2}
+    cardOne: {fileID: 11400000, guid: 6c418a3d0a25fad4282f8fd6ed6d3426, type: 2}
+  result: {fileID: 11400000, guid: 8f035e643ac798b40a0d75230540a3d7, type: 2}
